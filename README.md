@@ -1,7 +1,7 @@
 
 🛍️ Amazon Clone (Frontend Only)
 
-A responsive, frontend-only clone of the Amazon e-commerce platform. This project focuses on recreating the look and feel of Amazon’s UI using frontend technologies like HTML and CSS.
+A frontend-only clone of the Amazon e-commerce platform. This project focuses on recreating the look and feel of Amazon’s UI using frontend technologies like HTML and CSS.
 ⚠️ This is a non-functional clone meant for UI/UX practice and frontend design demonstration. There is no backend or real data.
 
 🔍 Preview

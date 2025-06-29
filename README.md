@@ -26,4 +26,6 @@ Real product data or database
 
 Cart functionality
 
+Responsive design
+
 Payment integration
